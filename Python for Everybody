@@ -1,0 +1,32 @@
+Intro A: Why program?
+  Users vs. Programmers
+  - Users see computers as a set of tooles - word processor, spreadsheet, map, to-do list etc
+  - Prgrammers learn the computer "ways" and the computer language
+  - Programmers have some tools that allow them to build new tools
+  - Programmers sometimes write tools for lots of users and sometimes programeers write little "helpers" for themselve to automate a task.
+  
+  Computer (Hardware + Software)
+  - From a software creator's point of view, we build the software. The end users (stakeholders/actors) are our masters - who we want to please - odten they pay us money when they are pleased. But the data, information, and networks are our problem to solve on their behalf. The hardware and software are our friends and allies in this quest.
+
+  What is Code? Software? A Program?
+  - A sequence of stored instructions
+    - It's a little piece of out intelligence in the computer
+    - We figure something out and then we encode it and then give it to someone else to save them the time and energy of figuring it out
+   - A piece of creative art - particularly when we do a good job on user experience.
+
+Intro B: Hardware Architecture
+  Central Processing Unit (CPU): Runs the program - The CPU is always wondering "what to do next". Not the brains exactly - very dumb but very very fast.
+  Input Devices: Keyboard, Mouse, Touch Screen
+  Output Devices: Screen, Speakers, Printer, DVD Burner
+  Main Memory: Fast small temporary storage - list on reboot - aka RAM
+  Secondary Memory: Slower large permanenet storage - lasts until deleted - disk drive / memory stick
+  
+Intro C: Python as a Language
+  - Early Learner: Syntax Errors
+    - We need to learn the Python language so we can communicate our instructions to Python. In the beginning we will make lots of mistakes and speak gibberish like small children
+ 
+Intro D: Elements of Python
+  - Elements of Python
+    - Vocabulary / Words - Variables and Reserved words (Chapter 2)
+    - Sentence Structure - valid syntax patterns (Chapters 3-5)
+    - Story structure - constructing a program for a purpose
